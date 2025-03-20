@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+main{
+    display: flex;
+}
+
+.price {
+    display:flex;
+}
+
+.price p{
+    text-decoration: line-through;
+}
+
+button {
+    background-color: green;
+    color: white;
+}
